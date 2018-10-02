@@ -1,3 +1,3 @@
-# OBVA's Django Server
+OBVA's Django Server
 ======================
 Open Big Data Visualization Analysis
